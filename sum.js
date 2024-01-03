@@ -16,3 +16,4 @@ else if (number == 0) {
 else {
      console.log("The number is negative");
 }
+
