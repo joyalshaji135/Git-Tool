@@ -1,3 +1,4 @@
+
 // JavaScript program to find the area of a triangle
 
 const side1 = parseInt(prompt('Enter side1: '));
